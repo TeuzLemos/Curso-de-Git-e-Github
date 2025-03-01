@@ -28,4 +28,4 @@ Lista de Tarefas:
 
 ![Captura de tela 2024-10-25 083051](https://github.com/user-attachments/assets/373ea08f-7cb9-443c-b7c1-f5dec014277c)
 
-[Clique aqui para acessar meu LinkedIn]()
+[Clique aqui para acessar meu LinkedIn](https://www.linkedin.com/in/matheuslemos2002)
