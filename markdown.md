@@ -1,7 +1,15 @@
 # Aula de linguaguem Markdown
 ---
-Podemos __*misturar*__ configurações
+## Personalização de texto
+*texto*
+_texto_
+**texto**
+__texto__
+~~texto~~
 
+Podemos ~~__*misturar*__~~ configurações
+
+## Listas numeradas, demarcadas e tarefas
 Lista numerada:
 
 1. Teste
@@ -26,12 +34,44 @@ Lista de Tarefas:
 - [ ] finalizar a reunião com o cliente
 - [ ] Receber o pagamento
 
+## Upload de Imagens e Links
 ![Captura de tela 2024-10-25 083051](https://github.com/user-attachments/assets/373ea08f-7cb9-443c-b7c1-f5dec014277c)
 
 [Clique aqui para acessar meu LinkedIn](https://www.linkedin.com/in/matheuslemos2002)
 
+## Adição de tabelas
 Num | Nome | Nota
 ---|---|---
 1 | Matheus | 7.7
 2 | Hellen | 10.0
 3 | Lula | 0.0
+
+## Mostrar Comandos
+Ex: Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript
+
+```
+num = int(input('Digite um valor: ')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÌMPAR')
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
