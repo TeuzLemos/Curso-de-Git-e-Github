@@ -21,7 +21,7 @@ Lista demarcada:
 * Teste
 
 Lista de Tarefas:
-- [ ] Criar a página principal
+- [x] Criar a página principal
 - [ ] Criar a página da loja
 - [ ] finalizar a reunião com o cliente
 - [ ] Receber o pagamento
@@ -29,3 +29,9 @@ Lista de Tarefas:
 ![Captura de tela 2024-10-25 083051](https://github.com/user-attachments/assets/373ea08f-7cb9-443c-b7c1-f5dec014277c)
 
 [Clique aqui para acessar meu LinkedIn](https://www.linkedin.com/in/matheuslemos2002)
+
+Num | Nome | Nota
+---|---|---
+1 | Matheus | 7.7
+2 | Hellen | 10.0
+3 | Lula | 0.0
