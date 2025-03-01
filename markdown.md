@@ -73,6 +73,3 @@ Olá, pequeno Gafanhoto 🖖✋
 
 
 
-
-
-
