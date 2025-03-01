@@ -21,3 +21,11 @@ Lista demarcada:
 * Teste
 
 Lista de Tarefas:
+- [ ] Criar a página principal
+- [ ] Criar a página da loja
+- [ ] finalizar a reunião com o cliente
+- [ ] Receber o pagamento
+
+![Captura de tela 2024-10-25 083051](https://github.com/user-attachments/assets/373ea08f-7cb9-443c-b7c1-f5dec014277c)
+
+[Clique aqui para acessar meu LinkedIn]()
