@@ -57,7 +57,8 @@ else:
     print(f'O valor {num} é ÌMPAR')
 ```
 
-
+## Emojis
+Olá, pequeno Gafanhoto 🖖✋
 
 
 
